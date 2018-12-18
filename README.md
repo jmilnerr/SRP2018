@@ -5,5 +5,6 @@
 METRONOM-TID,   RETNING (1=ØVERSTE DETEK; 2=NEDERSTE DETEK),   TID (ML. HENFALD)
 
 
-#_op: data fra myonernes TDC-tider, da afstanden var størst mellem detektorerne
-#_ned: data fra myonernes TDC-tider, da afstanden var kortest mellem detektorerne
+ToF_27Nov2018_op.txt: data fra myonernes TDC-tider, da afstanden var størst mellem detektorerne
+
+ToF_27Nov2018_ned.txt: data fra myonernes TDC-tider, da afstanden var kortest mellem detektorerne
